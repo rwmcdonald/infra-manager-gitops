@@ -1,6 +1,6 @@
 variable "project" {
   type        = string
-  description = "The project ID to use."
+  description = "The project ID to use. Updated."
 }
 
 variable "location" {
