@@ -5,7 +5,7 @@ variable "project" {
 
 variable "location" {
   type        = string
-  description = "The GCS location."
+  description = "The GCS location. Updating"
 }
 
 variable "bucket_name" {
