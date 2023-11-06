@@ -1,3 +1,3 @@
 project="robmcdonald-dev-01"
-bucket_name="robmcdonald_test_bucket_updated"
+bucket_name="test"
 location="us-central1"
